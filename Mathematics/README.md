@@ -1,3 +1,3 @@
 # problem-solving
 
-practise-area
+Mathematics problem
