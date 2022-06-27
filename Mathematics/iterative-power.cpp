@@ -12,6 +12,8 @@ int solve(int b, int p)
 		}
 
 		curr_base *= curr_base;
+
+		cout << p << " " ;
 		p = p >> 1;
 	}
 
